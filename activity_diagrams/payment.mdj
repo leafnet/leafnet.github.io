@@ -677,7 +677,7 @@
 									"height": 13,
 									"autoResize": false,
 									"underline": false,
-									"text": "Client Wab Page",
+									"text": "Client Web Page",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 3,
 									"wordWrap": false
@@ -847,7 +847,7 @@
 									"height": 13,
 									"autoResize": false,
 									"underline": false,
-									"text": "Data Server",
+									"text": "Database Server",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 3,
 									"wordWrap": false
@@ -1410,8 +1410,8 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 534,
-									"top": 235,
+									"left": 498,
+									"top": 227,
 									"width": 0,
 									"height": 13,
 									"autoResize": false,
@@ -1444,8 +1444,8 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 549,
-									"top": 237,
+									"left": 509,
+									"top": 217,
 									"width": 0,
 									"height": 13,
 									"autoResize": false,
@@ -1478,8 +1478,8 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 505,
-									"top": 232,
+									"left": 477,
+									"top": 248,
 									"width": 0,
 									"height": 13,
 									"autoResize": false,
@@ -1511,7 +1511,7 @@
 								"$ref": "AAAAAAFYOYzr1J46xQY="
 							},
 							"lineStyle": 1,
-							"points": "491:225;520:240;517:263",
+							"points": "470:225;506:263",
 							"stereotypeDisplay": "label",
 							"showVisibility": true,
 							"showProperty": true,
@@ -2431,7 +2431,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Client Wab Page)",
+											"text": "(from Client Web Page)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -3382,11 +3382,11 @@
 											"containerExtending": false,
 											"left": 1128,
 											"top": -346,
-											"width": 107.630859375,
+											"width": 135.82080078125,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Data Server)",
+											"text": "(from Database Server)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -4664,7 +4664,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Client Wab Page)",
+											"text": "(from Client Web Page)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -6121,7 +6121,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Client Wab Page)",
+											"text": "(from Client Web Page)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -6902,11 +6902,11 @@
 											"containerExtending": false,
 											"left": 824,
 											"top": -338,
-											"width": 107.630859375,
+											"width": 135.82080078125,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Data Server)",
+											"text": "(from Database Server)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -8710,7 +8710,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFYOYbPv53fXgw="
 					},
-					"name": "Client Wab Page",
+					"name": "Client Web Page",
 					"visibility": "public",
 					"nodes": [
 						{
@@ -9008,7 +9008,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFYOYbPv53fXgw="
 					},
-					"name": "Data Server",
+					"name": "Database Server",
 					"visibility": "public",
 					"nodes": [
 						{
