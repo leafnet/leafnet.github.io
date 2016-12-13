@@ -13,7 +13,7 @@ The original project goal has been abandoned and all the documents in side this
 repository are unrelated whatsoever to the starting goal (Building a **LeafNet**
 application).
 
-This repository is now just a container for our UML diagrams written for a
+This repository is now just a container for our UML diagrams drafted for a
 software development course.
 
 Thus, all the documents are not reflecting our first vision anymore.
