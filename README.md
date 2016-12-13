@@ -17,4 +17,4 @@ This repository is now just a container for our UML diagrams written for a
 software development course.
 
 Thus, all the documents are not reflecting our first vision anymore.
-Sorry if you are expecting too much.
+We are sorry that we cannot keep up with your expectation.
